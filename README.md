@@ -8,7 +8,7 @@
   - [Powershell File Integrity Monitor](https://github.com/joshmadakor1/AD_PS)
 
   
-  <h2> Certifications </h2>
+  <h2>📄 Certifications </h2>
 
    - [A+](https://github.com/joshmadakor1/AD_PS)
    - [Security+](https://github.com/joshmadakor1/AD_PS)
