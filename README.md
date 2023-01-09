@@ -1,7 +1,6 @@
 <h1>Hi, I'm Hassan! 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-    /Working on adding resources/guide to each one
   - [Active Directory Home Lab](https://github.com/joshmadakor1/AD_PS)
   - [Azure Sentinel SIEM](https://github.com/joshmadakor1/AD_PS)
   - [Nessus Vulnerability Management](https://github.com/joshmadakor1/AD_PS)
