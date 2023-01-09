@@ -1,7 +1,7 @@
 <h1>Hi, I'm Hassan! 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-
+* Working on adding resources/guide to each one
   - [Active Directory Home Lab](https://github.com/joshmadakor1/AD_PS)
   - [Azure Sentinel SIEM](https://github.com/joshmadakor1/AD_PS)
   - [Nessus Vulnerability Management](https://github.com/joshmadakor1/AD_PS)
@@ -14,7 +14,7 @@
    - [Security+](https://github.com/joshmadakor1/AD_PS)
 
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 Popular YouTube Videos from my Favorite Creators</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
