@@ -1,7 +1,7 @@
 <h1>Hi, I'm Hassan! 
 
 <h2> Coding Projects </h2>
-  - 
+  - Odin Project
   -
   -
   -
